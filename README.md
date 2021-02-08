@@ -1,6 +1,6 @@
 # Maze Game
 
-This program is a simple game done entirely in a Java console terminal. The user has the option to choose the right positions in order to make it out of a maze of 1's and 0's. The 1'srepresent spaces the player cannot enter, while the 0's are open spaces for the user to freely move around in. The player's current position is marked with a red "X" printed on
+This program is a simple game done entirely in a Java console terminal. The user has the option to choose the right positions in order to make it out of a maze of 1's and 0's. The 1's represent spaces the player cannot enter, while the 0's are open spaces for the user to freely move around in. The player's current position is marked with a red "X" printed on
 the game board, while the exit of the maze is marked with a green "E".
 
 When the program begins, the user will be asked if they want their starting position to be in the middle or the beginning of the maze. This is done simply for players who want different difficulties. For example, in the image below, this is the user's position after starting in the middle of the game board:
