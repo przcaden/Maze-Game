@@ -9,7 +9,7 @@ When the program begins, the user will be asked if they want their starting posi
 
 ## Movement
 
-Now to actually play the game. As seen in the image, the user is given four options of movement on the game board: left, right, up, and down. The user may inputted a non-case-sensitive "L", "R", "U", or "D" to move in their corresponding direction. If a user tries to lead their position cursor off the board grid or into a "wall" of 1's, the program will ask them to try again. Otherwise, their cursor will move to that space on the grid and the board is re-printed to the console.
+Now to actually play the game. As seen in the image, the user is given four options of movement on the game board: left, right, up, and down. The user may input a non-case-sensitive "L", "R", "U", or "D" to move in their corresponding direction. If a user tries to lead their position cursor off the board grid or into a "wall" of 1's, the program will ask them to try again. Otherwise, their cursor will move to that space on the grid and the board is re-printed to the console.
 
 ## Code Structure
 
